@@ -1,0 +1,5 @@
+SteamOS is a Debian-based Linux operating system by Valve Corporation and is the primary operating system for Valve's Steam Machine video game console.
+SteamOS is designed primarily for playing video games away from a PC (such as from the couch in one's living room) by providing a console-like experience using generic PC hardware that can connect directly to a television. 
+It can run games natively that have been developed for Linux and purchased from the Steam store.
+Users are also able to stream games from their Windows, Mac or Linux computers to one running SteamOS, and it incorporates the same family sharing and restrictions as Steam on the desktop.
+Since SteamOS is solely for playing games without use of mouse or keyboard, it does not have many built-in functions beyond web browsing and playing games.
